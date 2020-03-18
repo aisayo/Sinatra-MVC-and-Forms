@@ -1,0 +1,3 @@
+why MVC?
+
+controller - 
